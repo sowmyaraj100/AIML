@@ -1,2 +1,2 @@
 # AIML
-Trails praticles for AIML
+AIML
